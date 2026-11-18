@@ -1,4 +1,3 @@
-
 # Gerenciador Logístico
 
 ## Sobre o projeto
